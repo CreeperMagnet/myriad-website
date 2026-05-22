@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 14" width="74" height="14" shape-rendering="crispEdges">
+  <defs>
+    <path id="title" d="
+      M0 0h1v1h-1z M4 0h1v1h-1z M6 0h1v1h-1z
+      M10 0h1v1h-1z M12 0h1v1h-1z M13 0h1v1h-1z M14 0h1v1h-1z M15 0h1v1h-1z
+      M18 0h1v1h-1z M19 0h1v1h-1z M20 0h1v1h-1z M21 0h1v1h-1z M22 0h1v1h-1z
+      M25 0h1v1h-1z M26 0h1v1h-1z M27 0h1v1h-1z
+      M30 0h1v1h-1z M31 0h1v1h-1z M32 0h1v1h-1z M33 0h1v1h-1z
+
+      M0 1h1v1h-1z M1 1h1v1h-1z M3 1h1v1h-1z M4 1h1v1h-1z
+      M7 1h1v1h-1z M9 1h1v1h-1z M12 1h1v1h-1z M16 1h1v1h-1z
+      M20 1h1v1h-1z M24 1h1v1h-1z M28 1h1v1h-1z M30 1h1v1h-1z M34 1h1v1h-1z
+
+      M0 2h1v1h-1z M2 2h1v1h-1z M4 2h1v1h-1z M8 2h1v1h-1z
+      M12 2h1v1h-1z M13 2h1v1h-1z M14 2h1v1h-1z M15 2h1v1h-1z
+      M20 2h1v1h-1z
+      M24 2h1v1h-1z M25 2h1v1h-1z M26 2h1v1h-1z M27 2h1v1h-1z M28 2h1v1h-1z
+      M30 2h1v1h-1z M34 2h1v1h-1z
+
+      M0 3h1v1h-1z M4 3h1v1h-1z M8 3h1v1h-1z
+      M12 3h1v1h-1z M16 3h1v1h-1z M20 3h1v1h-1z
+      M24 3h1v1h-1z M28 3h1v1h-1z M30 3h1v1h-1z M34 3h1v1h-1z
+
+      M0 4h1v1h-1z M4 4h1v1h-1z M8 4h1v1h-1z
+      M12 4h1v1h-1z M16 4h1v1h-1z
+      M18 4h1v1h-1z M19 4h1v1h-1z M20 4h1v1h-1z M21 4h1v1h-1z M22 4h1v1h-1z
+      M24 4h1v1h-1z M28 4h1v1h-1z
+      M30 4h1v1h-1z M31 4h1v1h-1z M32 4h1v1h-1z M33 4h1v1h-1z
+   "/>
+  </defs>
+  <g transform="translate(2,2)">
+    <g transform="translate(1,1)">
+      <use x="0" y="0" href="#title" fill="#301030" transform="scale(2)"/>
+    </g>
+    <use href="#title" fill="#ffffff" transform="scale(2)"/>
+  </g>
+</svg>

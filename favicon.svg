@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="210">
+  <defs>
+    <path id="logo" d="
+      M0 0h1v1H0z M2 0h1v1H2z M4 0h1v1H4z M6 0h1v1H6z M8 0h2v1H8z
+      M9 1h1v1H9z
+      M0 2h1v1H0z M2 2h1v1H2z M4 2h1v1H4z M6 2h2v1H6z M9 2h1v1H9z
+      M7 3h1v1H7z M9 3h1v1H9z
+      M0 4h1v1H0z M2 4h1v1H2z M4 4h2v1H4z M7 4h1v1H7z M9 4h1v1H9z
+      M4 5h2v1H4z M7 5h1v1H7z M9 5h1v1H9z
+      M0 6h1v1H0z M2 6h1v1H2z M7 6h1v1H7z M9 6h1v1H9z
+      M2 7h6v1H2z M9 7h1v1H9z
+      M0 8h1v1H0z M9 8h1v1H9z
+      M0 9h10v1H0z
+    "/>
+  </defs>
+  <style>
+    #light {
+      display: inline;
+      transform: scale(5);
+    }
+    #dark {
+      display: none;
+    }
+    @media (prefers-color-scheme: dark) {
+      #light {
+        display: none;
+      }
+      #dark {
+        display: inline;
+        transform: scale(21);
+      }
+    }
+  </style>
+  <svg id="dark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+    <use href="#logo" fill="#ffffff"/>
+  </svg>
+  <svg id="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42" width="42" height="42">
+    <rect x="0" y="0" width="42" height="42" rx="6" ry="6" fill="#500060"/>
+    <g transform="translate(6,6)">
+      <g transform="translate(1,1)">
+        <use x="0" y="0" href="#logo" fill="#301030" transform="scale(3)"/>
+      </g>
+      <use href="#logo" fill="#ffffff" transform="scale(3)"/>
+    </g>
+  </svg>
+</svg>
+

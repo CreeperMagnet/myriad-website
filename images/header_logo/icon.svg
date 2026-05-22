@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" shape-rendering="crispEdges">
+  <defs>
+    <path id="logo" d="
+      M0 0h1v1H0z M2 0h1v1H2z M4 0h1v1H4z M6 0h1v1H6z M8 0h2v1H8z
+      M9 1h1v1H9z
+      M0 2h1v1H0z M2 2h1v1H2z M4 2h1v1H4z M6 2h2v1H6z M9 2h1v1H9z
+      M7 3h1v1H7z M9 3h1v1H9z
+      M0 4h1v1H0z M2 4h1v1H2z M4 4h2v1H4z M7 4h1v1H7z M9 4h1v1H9z
+      M4 5h2v1H4z M7 5h1v1H7z M9 5h1v1H9z
+      M0 6h1v1H0z M2 6h1v1H2z M7 6h1v1H7z M9 6h1v1H9z
+      M2 7h6v1H2z M9 7h1v1H9z
+      M0 8h1v1H0z M9 8h1v1H9z
+      M0 9h10v1H0z
+    "/>
+  </defs>
+  <g transform="translate(2,2)">
+    <g transform="translate(1,1)">
+      <use x="0" y="0" href="#logo" fill="#301030" transform="scale(2)"/>
+    </g>
+    <use href="#logo" fill="#ffffff" transform="scale(2)"/>
+  </g>
+</svg>
+
